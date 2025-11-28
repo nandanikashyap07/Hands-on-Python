@@ -1,4 +1,4 @@
-Twilio SMS Automation (Python)
+# Twilio SMS Automation (Python)
 
 This project is a lightweight Python tool that lets you send SMS messages through the Twilio API. It’s ideal for anyone learning how APIs work or for quick message automation from a Python script.
 
