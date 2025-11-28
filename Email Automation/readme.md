@@ -1,6 +1,6 @@
-# ====================================================
+
 # Python Email Sender – Gmail SMTP Automation
-# ====================================================
+
 
 A compact Python script that sends emails using Gmail’s SMTP service.  
 No third-party libraries — just Python + SSL + Gmail App Password.
