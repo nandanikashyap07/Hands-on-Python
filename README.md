@@ -6,31 +6,31 @@ The goal of this repo is simple: showcase practical Python skills through real w
 
 📁 Included Projects
 Here’s an overview of everything inside this repository:
-🔸 AI Chat-Bot
+1.  AI Chat-Bot
 A basic conversational bot created using conditional logic and Python functions.
-🔸 ATM PIN System
+2.  ATM PIN System
 A terminal-based simulation of an ATM that validates user PINs and performs basic operations.
-🔸 Calculator
+3.  Calculator
 A straightforward arithmetic calculator implemented in Python.
-🔸 Email Automation
+4.  Email Automation
 Script to send automated emails using SMTP and app passwords.
-🔸 File Transfer
+5.  File Transfer
 A Python socket program for sending files between two systems over a network.
-🔸 Flask Project
+6.  Flask Project
 A small web application built using the Flask micro-framework.
-🔸 Movie Ticket Checker
+7.  Movie Ticket Checker
 A simple program to validate age and ticket availability before entry.
-🔸 Number Checker
+8.  Number Checker
 Determines whether a user-entered number is positive, negative, or zero.
-🔸 SMS Automation
+9.  SMS Automation
 Uses the Twilio API to send SMS messages programmatically.
-🔸 Streamlit Dashboard
+10.  Streamlit Dashboard
 An interactive dashboard built using Streamlit for quick UI-based data display.
-🔸 Text-to-Speech Tool
+11. Text-to-Speech Tool
 Converts input text into speech using Python libraries.
-🔸 Unit Converter
+12. Unit Converter
 A Python utility for converting units like length, weight, or temperature.
-🔸 Zero Cross Game
+13. Zero Cross Game
 A Python implementation of the classic Tic-Tac-Toe (Zero Cross) game.
 
 🧩 What I Learned
