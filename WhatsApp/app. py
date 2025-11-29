@@ -1,0 +1,14 @@
+from pywhatkit import sendwhatmsg
+
+def send_whatsapp_message():
+    phone = "+91XXXXXXXXXX"
+    message = "Hey! This is an automated WhatsApp message sent through Python 😊"
+    hour = 19
+    minute = 45
+
+    print("Opening WhatsApp Web…")
+    sendwhatmsg(phone, message, hour, minute)
+    print("Message scheduled successfully!")
+
+if __name__ == "__main__":
+    send_whatsapp_message()
